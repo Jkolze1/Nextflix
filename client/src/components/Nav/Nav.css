@@ -1,0 +1,27 @@
+
+.navbar-brand {
+    padding-top: 0.5rem;
+    font-size: inherit;
+    font-weight: 700;
+    color:white;
+    text-transform:none;
+}
+
+Nav {
+    background-color:#18BC9C !important;
+}
+
+
+.navbar {
+    font-size: 18px;
+    font-family: "News Cycle", "Arial Narrow Bold", sans-serif;
+    font-weight: 700;
+}
+
+a:hover { 
+    color: #18BC9C;
+  }
+
+/*color: #fff;
+background-color: #18BC9C;
+border-color: #18BC9C;*/
