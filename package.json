@@ -16,7 +16,7 @@
     "heroku-postbuild": "npm run build",
     "homepage": "http://jkolze1.github.io/nextflix/"
   },
-  "author": "",
+  "author": "Jacqueline Kolze",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^3.5.0",
