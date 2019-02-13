@@ -5,6 +5,6 @@ Nextflix is a MERN (Mongo, Express, React, and Node) application. It allows your
 <br><br>
 Here is a image of the homepage.
 ![Home](/img/img.png 'Screenshot')
-<Br>
+<br><br>
 Here is a image of the deails section.
 ![Home](/img/img2.png 'Screenshot')
