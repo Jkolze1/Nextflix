@@ -8,8 +8,7 @@ class Detail extends Component {
   state = {
     book: {}
   };
-  // When this component mounts, grab the book with the _id of this.props.match.params.id
-  // e.g. localhost:3000/books/599dcb67f0f16317844583fc
+  // When this component mounts, grab the _id of this.props.match.params.id
   componentDidMount() {
     API.getBook(this.props.match.params.id)
       .then(res => this.setState({ book: res.data }))
@@ -31,7 +30,7 @@ class Detail extends Component {
         <Row>
           <Col size="md-12">
             <article>
-              <h1>Movie details</h1>
+              <h2>Movie details</h2>
               <p>
                 {this.state.book.synopsis}
               </p>

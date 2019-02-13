@@ -16,6 +16,7 @@ if (process.env.NODE_ENV === "production") {
 app.use(routes);
 
 // Connect to the Mongo DB
+// Change whats in the quotation marks on line 20
 mongoose.connect(process.env.MONGODB_URI || "mongodb://nextflix123:a123456@ds025973.mlab.com:25973/nextflix");
 
 // Start the API server

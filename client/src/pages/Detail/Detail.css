@@ -10,5 +10,12 @@ a:hover {
   }
 h1{
     text-align:left;
+    
 
+}
+a {
+    color: #18BC9C;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
 }
