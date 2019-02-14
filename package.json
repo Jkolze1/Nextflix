@@ -10,7 +10,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "heroku-postbuild": "npm run build",
-    "homepage": "http://jkolze1.github.io/nextflix/"
+    "homepage": "https://jkolze1.github.io/Nextflix/"
   },
   "author": "",
   "license": "ISC",
