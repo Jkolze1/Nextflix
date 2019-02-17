@@ -9,9 +9,10 @@ Here is a image of the homepage.
 Here is a image of the deails section.
 ![Home](/img/img2.png 'Screenshot')
 
-1. To run this app click git clone <Br>
-2. Then open terminal 
-A. Cd into the folder 
+1. To run this app click git clone <br>
+2. Then open terminal <br>
+A. Cd into the folder <br>
 B. run the command NPM install <br>
-3. Then run NPM start <Br>
-4. This will open up the app <Br>
+3. Then run NPM start <br>
+4. This will open up the app <br>
+
