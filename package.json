@@ -1,5 +1,6 @@
 {
     "name": "mern-to-heroku",
+    "description": "Nextflix is a MERN (Mongo, Express, React, and Node) application. It allows your friends to easily recommend movies and TV shows. With Nextflix, you’ll always know what to watch next!",
     "version": "1.0.0",
     "main": "index.js",
     "license": "MIT",
@@ -9,6 +10,7 @@
         "mongoose": "^4.13.6",
         "morgan": "^1.9.0"
     },
+    "author": "Jacqueline Kolze",
     "scripts": {
         "start": "node server.js",
         "heroku-postbuild": "cd client && npm install --only=dev && npm install && npm run build"
